@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 1000,
+      "quantity": 5
+    },
+    {
+      "name": "Smartphone",
+      "price": 700,
+      "quantity": 10
+    },
+    {
+      "name": "Headphones",
+      "price": 100,
+      "quantity": 20
+    },
+    {
+      "name": "Monitor",
+      "price": 300,
+      "quantity": 7
+    }
+  ]
+}
